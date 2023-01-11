@@ -1,6 +1,6 @@
 
 function countDown() {
-    const xmasTime = "24 Dec 2021";
+    const xmasTime = "24 Dec 2023";
     var daysEl = $("#days");
     var hoursEl = $("#hours");
     var minsEl = $("#mins");
